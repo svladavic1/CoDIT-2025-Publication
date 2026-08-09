@@ -16,3 +16,5 @@ STSMC significantly outperforms the PID controller used in
 terms of stability of the system, tracking error, and overall
 control performance in the presence of system uncertainties and
 coupling effects between two axes, the azimuth and elevation.
+
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kqs5cSkAAAAJ&sortby=pubdate&citation_for_view=kqs5cSkAAAAJ:PR6Y55bgFSsC
