@@ -1,4 +1,4 @@
-This paper presents a robust control strategy, namely Sliding Mode Control (SMC),
+This [paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kqs5cSkAAAAJ&sortby=pubdate&citation_for_view=kqs5cSkAAAAJ:PR6Y55bgFSsC) presents a robust control strategy, namely Sliding Mode Control (SMC),
 to control a two-degree-of-freedom (2DOF) helicopter model. 
 This model is an in- herently unstable, nonlinear, and multivariable system with
 coupling effects between two axes. Due to the mentioned char-
@@ -17,4 +17,4 @@ terms of stability of the system, tracking error, and overall
 control performance in the presence of system uncertainties and
 coupling effects between two axes, the azimuth and elevation.
 
-[The paper.](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kqs5cSkAAAAJ&sortby=pubdate&citation_for_view=kqs5cSkAAAAJ:PR6Y55bgFSsC)
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kqs5cSkAAAAJ&sortby=pubdate&citation_for_view=kqs5cSkAAAAJ:PR6Y55bgFSsC
